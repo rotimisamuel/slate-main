@@ -12,17 +12,17 @@ function HeroContent() {
 				<FadeInStaggerTwoChildren>
 					<h1>
 						<span className="aximo-title-animation">
-							A creative
+							Start Fresh
 							<img src={StarImg} alt="StarImg" />
 						</span>{" "}
-						design studio
+						Start SLATE
 					</h1>
 				</FadeInStaggerTwoChildren>
 				<FadeInStaggerTwoChildren>
 					<p>
-						{`We're a creative design studio specializing in meeting the needs of the new generation.
-								We offer innovative and cutting-edge design solutions to help our clients stand out in
-								today's fast-paced.`}
+						{`At Slate we believe technology should be powerful, affordable and accessible to everyone. From students to CEOs, Slate is here to equip you
+						with premium tech products and flexible payment options that fit your lifestyle and budget
+						 `}
 					</p>
 				</FadeInStaggerTwoChildren>
 				<FadeInStaggerTwoChildren>
@@ -39,13 +39,13 @@ function HeroContent() {
 							</div>
 						</div>
 						<div className="aximo-hero-user-data">
-							<p>Believed by more than a thousand people</p>
+							<p>Powering Ambition Through Technology</p>
 						</div>
 					</div>
 				</FadeInStaggerTwoChildren>
 				<FadeInStaggerTwoChildren>
 					<Link className="aximo-call-btn" to="/contact-us">
-						Book a free consultation <i className="icon-call"></i>
+						Request for a Slate device <i className="icon-call"></i>
 					</Link>
 					<div className="aximo-hero-shape">
 						<img src={ShapeImg} alt="ShapeImg" />

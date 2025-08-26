@@ -10,21 +10,21 @@ const testimonialsData = [
 	{
 		id: crypto.randomUUID(),
 		rating: 5,
-		title: "Super customer service!",
+		title: "Game Changer!",
 		description:
-			"Excellent customer service and I was really impressed and happy with my purchase especially as it was a last minute order which got to me in time, and when it arrived I was very happy with the design and size and so was the recipient.",
-		author: "William Jack",
-		designation: "Founder@XYZ",
+			"SLATE, made it possible to get my laptop for school and pay in small bits.",
+		author: "Chiamaka",
+		designation: "UNILAG",
 		img: Thumb1Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		rating: 4,
-		title: "Exceptional creativity and vision",
+		title: "Reliable delivery. Excellent Support",
 		description:
-			"Working Mthemeus was a game-changer for our brand. Their exceptional creativity & vision breathed new life into our visual. The logo they perfectly captures our essence & has become instantly recognizable. We couldn't be happier the results!",
-		author: "Smith Align",
-		designation: "Businessman",
+			"Their UPS saved our entire team during a power outage",
+		author: "Tunde",
+		designation: "Lead Software LTD",
 		img: Thumb2Img,
 	},
 	{

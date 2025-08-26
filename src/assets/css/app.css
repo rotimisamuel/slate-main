@@ -22,14 +22,14 @@
 	--heading-color5: #2c2c2c;
 	--heading-color6: #0b1040;
 	--body-color: #0c0c0c;
-	--accent-color: #bff747;
+	--accent-color: #4eaee7; /*  #bff747; */
 	--white-smoke: #fdfde1;
 	--white-color: #ffffff;
 	--orange-color: #ff4612;
 	--orange-color2: #ff8064;
 	--corn-color: #f4b905;
 	--green-color: #073d30;
-	--green-color2: #02854c;
+	--green-color2: #2c3e50; /**#02854c;*/
 	--light-color1: #f6f5ef;
 	--light-color2: #fefcfb;
 	--light-color3: #fff7ea;
@@ -42,8 +42,8 @@
 	--white-bg: #ffffff;
 	--orange-bg: #ff4612;
 	--orange-bg2: #ff8064;
-	--accent-bg: #bff747;
-	--yellow-bg: #ffe757;
+	--accent-bg: #2F54F2; /*#bff747;*/
+	--yellow-bg: #2c3e50; /**ffe757;**/
 	--corn-bg: #f4b905;
 	--blue-bg: #0000ff;
 	--light-bg1: #fffff5;
@@ -55,7 +55,7 @@
 	--light-bg7: #f3ede8;
 	--light-bg8: #f8fcdd;
 	--green-bg: #073d30;
-	--green-bg2: #02854c;
+	--green-bg2: #2c3e50;/***#02854c;**/
 	--cornflower-bg: #d68be7;
 }
 
@@ -10309,7 +10309,7 @@ a.comment-reply {
 
 button#aximo-notified-btn {
 	border-radius: 50px;
-	background: #bff747;
+	background: #9cb8f0;/** #bff747**/
 	width: 150px;
 	height: 50px;
 	font-size: 16px;

@@ -10,7 +10,7 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Buy Now Pay Gradually",
 		img: Star3Img,
 	},
 	{

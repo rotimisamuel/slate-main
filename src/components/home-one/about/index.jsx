@@ -12,18 +12,17 @@ function About() {
 						<div className="col-lg-7">
 							<h2>
 								<span className="aximo-title-animation">
-									We make your
+									Slate Gedgets
 									<span className="aximo-title-icon">
 										<img src={Star2Img} alt="Star2Img" />
 									</span>
 								</span>{" "}
-								business stand out
+								Smarter Choices
 							</h2>
 						</div>
 						<div className="col-lg-4 offset-lg-1 d-flex align-items-center">
 							<p>
-								We work closely with our clients to know their objectives, target audience, unique
-								needs, and practical design solutions.
+								Experience high performance tech -Laptops, Tablets, Desktops, Phones and other accessories -all built to empower your future.
 							</p>
 						</div>
 					</div>

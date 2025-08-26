@@ -5,13 +5,13 @@ function FooterContent() {
 		<div className="aximo-default-content light position-relative">
 			<h2>
 				<span className="aximo-title-animation">
-					Lets start a
+					Plan smarter
 					<span className="aximo-title-icon">
 						<img src={Star2Img} alt="Star2Img" />
 					</span>
 				</span>
 				<br />
-				project together
+				Plan SLATE
 			</h2>
 			<p>
 				We work closely with our clients to understand their objectives, target audience, and unique needs. We
@@ -22,7 +22,7 @@ function FooterContent() {
 					<ul>
 						<li>Give us a call:</li>
 						<li>
-							<a href="tel:(123) 456-7890">(123) 456-7890</a>
+							<a href="tel:(123) 456-7890">(+44) 1234567</a>
 						</li>
 					</ul>
 				</div>
@@ -30,7 +30,7 @@ function FooterContent() {
 					<ul>
 						<li>Send us an email:</li>
 						<li>
-							<a href="mailto:info@mthemeus.com">info@mthemeus.com</a>
+							<a href="mailto:hello@slate.com">hello@slate.com</a>
 						</li>
 					</ul>
 				</div>
@@ -57,6 +57,7 @@ function FooterContent() {
 							<i className="icon-linkedin"></i>
 						</a>
 					</li>
+					
 				</ul>
 			</div>
 			<div className="aximo-hero-shape aximo-footer-shape">
