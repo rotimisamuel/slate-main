@@ -1,7 +1,8 @@
 export const menuItemsData = [
 	{
-		title: "Demo",
+		title: "Home",
 		url: "#",
+		/** 
 		submenu: [
 			{
 				title: "Design Agency",
@@ -31,12 +32,18 @@ export const menuItemsData = [
 				title: "Advertising agency",
 				url: "home-seven",
 			},
-		],
+		],***/
 	},
+
 	{
 		title: "About Us",
 		url: "about-us",
 	},
+	{
+		title: "Products",
+		url: "#",
+	},
+	/*** 
 	{
 		title: "Pages",
 		url: "#",
@@ -154,10 +161,11 @@ export const menuItemsData = [
 				],
 			},
 		],
-	},
+	},***/
 	{
 		title: "Blog",
-		url: "blog",
+		url: "#",
+/**
 		submenu: [
 			{
 				title: "Blog",
@@ -172,6 +180,7 @@ export const menuItemsData = [
 				url: "single-blog",
 			},
 		],
+		**/
 	},
 	{
 		title: "Contact Us",
