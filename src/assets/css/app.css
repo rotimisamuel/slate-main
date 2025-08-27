@@ -100,7 +100,7 @@ html {
 body {
 	height: 100% !important;
 	color: var(--body-color);
-	font-family: "Inter", sans-serif;
+	font-family: "Gyrochrome","Inter", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	vertical-align: baseline;
