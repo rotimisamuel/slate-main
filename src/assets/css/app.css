@@ -387,7 +387,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-	font-family: "Syne", sans-serif;
+	font-family: "Gyrochrome","Syne", sans-serif;
 	color: var(--heading-color);
 	font-weight: 700;
 	margin: 0;
@@ -789,7 +789,7 @@ blockquote {
 	padding: 30px;
 	margin: 0 0 24px;
 	color: var(--white-smoke);
-	font-family: "Syne", sans-serif;
+	font-family: "Gyrochrome","Syne", sans-serif;
 	background-color: var(--dark-bg);
 }
 
@@ -2472,7 +2472,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	}
 }
 .aximo-footer-info-item h5 {
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family: "Gyrochrome","Bricolage Grotesque", sans-serif;
 }
 .aximo-footer-info-item p {
 	font-size: 21px;
@@ -2501,7 +2501,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	padding: 0px 40px;
 	border-radius: 3px;
 	font-weight: 700;
-	font-family: "Inter", sans-serif;
+	font-family: "Gyrochrome","Inter", sans-serif;
 	width: fit-content;
 	position: relative;
 	z-index: 1;
@@ -2659,7 +2659,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	letter-spacing: -0.14px;
 	text-transform: uppercase;
 	position: relative;
-	font-family: "Syne", sans-serif;
+	font-family: "Gyrochrome","Syne", sans-serif;
 	padding-bottom: 8px;
 }
 .aximo-icon-btn img {
@@ -2919,7 +2919,7 @@ textarea::placeholder {
 }
 .aximo-form-wrap2 h3 {
 	margin-bottom: 10px;
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family:"Gyrochrome", "Familjen Grotesk", sans-serif;
 }
 .aximo-form-wrap2 p {
 	font-size: 20px;
@@ -3658,7 +3658,7 @@ h1.post__title {
 	font-size: 118px;
 	margin-bottom: 24px;
 	letter-spacing: normal;
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	color: var(--heading-color);
 }
 @media (max-width: 1400px) {
@@ -3865,7 +3865,7 @@ h1.post__title {
 	font-size: 124px;
 	margin-bottom: 30px;
 	letter-spacing: normal;
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 }
 @media (max-width: 1669px) {
 	.aximo-hero-content3 h1 {
@@ -4125,7 +4125,7 @@ button#aximo-hero-subscription-btn:hover .aximo-label-up {
 	font-size: 120px;
 	margin-bottom: 24px;
 	color: var(--light-color3);
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 }
 @media (max-width: 1669px) {
 	.aximo-hero-content4 h1 {
@@ -4218,7 +4218,7 @@ button#aximo-hero-subscription-btn:hover .aximo-label-up {
 	font-size: 120px;
 	margin-bottom: 30px;
 	color: var(--light-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 @media (max-width: 1669px) {
 	.aximo-hero-content5 h1 {
@@ -4299,7 +4299,7 @@ img.aximo-hero-wave-shape {
 	line-height: 1.02em;
 	letter-spacing: -0.5px;
 	color: var(--heading-color5);
-	font-family: "Playfair Display", serif;
+	font-family:"Gyrochrome", "Playfair Display", serif;
 }
 @media (max-width: 1669px) {
 	.aximo-hero-text {
@@ -4437,7 +4437,7 @@ img.aximo-hero-wave-shape {
 	margin-bottom: 24px;
 	position: relative;
 	color: var(--heading-color6);
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family:"Gyrochrome", "Bricolage Grotesque", sans-serif;
 }
 @media (max-width: 1669px) {
 	.aximo-hero-content7 h1 {
@@ -4558,7 +4558,7 @@ span.aximo-hero-shape-title2 {
 	font-size: 80px;
 	margin-bottom: 5px;
 	color: var(--heading-color2);
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 }
 @media (max-width: 1199px) {
 	.aximo-counter-data2 h2 {
@@ -4612,7 +4612,7 @@ span.aximo-hero-shape-title2 {
 	margin-bottom: 5px;
 	text-transform: uppercase;
 	color: var(--heading-color);
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 }
 @media (max-width: 1199px) {
 	.aximo-counter-data3 h2 {
@@ -4666,7 +4666,7 @@ span.aximo-hero-shape-title2 {
 	margin-bottom: 20px;
 	text-align: center;
 	color: var(--light-color3);
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 }
 @media (max-width: 1399px) {
 	.aximo-counter-data4 h2 {
@@ -4737,7 +4737,7 @@ span.aximo-hero-shape-title2 {
 .aximo-counter-data5 h2 {
 	margin-bottom: 10px;
 	color: var(--green-color);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 
 .aximo-counter-wrap6 {
@@ -4762,7 +4762,7 @@ span.aximo-hero-shape-title2 {
 	margin-bottom: 5px;
 	text-transform: uppercase;
 	color: #d68be7;
-	font-family: "Playfair Display", serif;
+	font-family: "Gyrochrome","Playfair Display", serif;
 	margin-right: 15px;
 	margin-bottom: 0;
 }
@@ -4857,7 +4857,7 @@ span.aximo-hero-shape-title2 {
 	padding: 30px;
 }
 .aximo-team-data2 h4 {
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 	margin-bottom: 10px;
 }
 .aximo-team-data2 p {
@@ -4954,7 +4954,7 @@ p.aximo-skillbar-lable {
 	padding-top: 20px;
 }
 .aximo-team-data3 h3 {
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family: "Gyrochrome","Bricolage Grotesque", sans-serif;
 	margin-bottom: 10px;
 	font-size: 38px;
 	color: var(--heading-color6);
@@ -5033,7 +5033,7 @@ p.aximo-skillbar-lable {
 }
 .aximo-iconbox-data2 h3 {
 	margin-bottom: 15px;
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	color: var(--heading-color2);
 }
 .aximo-iconbox-column {
@@ -5075,7 +5075,7 @@ p.aximo-skillbar-lable {
 .aximo-iconbox-data3 h3 {
 	font-size: 35px;
 	margin-bottom: 20px;
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family:"Gyrochrome", "Familjen Grotesk", sans-serif;
 }
 @media (max-width: 1199px) {
 	.aximo-iconbox-data3 h3 {
@@ -5104,7 +5104,7 @@ p.aximo-skillbar-lable {
 .aximo-iconbox-data4 h3 {
 	margin-bottom: 15px;
 	line-height: 1.33em;
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 	color: var(--heading-color3);
 }
 .aximo-iconbox-data4 p {
@@ -5147,7 +5147,7 @@ p.aximo-skillbar-lable {
 }
 .aximo-iconbox-data6 h3 {
 	margin-bottom: 12px;
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 @media (max-width: 767px) {
 	.aximo-iconbox-data6 h3 {
@@ -5164,7 +5164,7 @@ p.aximo-skillbar-lable {
 .aximo-iconbox-data7 h3 {
 	font-size: 40px;
 	margin-bottom: 12px;
-	font-family: "Playfair Display", serif;
+	font-family:"Gyrochrome", "Playfair Display", serif;
 	color: var(--heading-color5);
 }
 @media (max-width: 1199px) {
@@ -5201,7 +5201,7 @@ p.aximo-skillbar-lable {
 .aximo-iconbox-data8 h3 {
 	font-size: 40px;
 	margin-bottom: 12px;
-	font-family: "Playfair Display", serif;
+	font-family: "Gyrochrome","Playfair Display", serif;
 	color: var(--heading-color5);
 }
 @media (max-width: 1199px) {
@@ -5402,7 +5402,7 @@ a.aximo-service-icon:hover {
 	}
 }
 .aximo-accordion-wrap2 h3.accordion-header {
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	color: var(--header-color2);
 }
 @media (max-width: 767px) {
@@ -5539,7 +5539,7 @@ a.aximo-service-icon:hover {
 	}
 }
 .aximo-accordion-wrap4 .accordion-button {
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 	font-weight: 700;
 	color: var(--heading-color);
 	padding: 0; /* overwrite bs */
@@ -5625,7 +5625,7 @@ a.aximo-service-icon:hover {
 	font-size: 24px; /* overwrite bs */
 	background: none; /* overwrite bs */
 	box-shadow: none; /*  overwrite bs */
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 	color: var(--heading-color4);
 }
 @media (max-width: 767px) {
@@ -6024,7 +6024,7 @@ img.aximo-video-circle {
 	margin-bottom: 5px;
 	letter-spacing: -0.5px;
 	color: var(--heading-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family:"Gyrochrome", "Libre Baskerville", serif;
 }
 .aximo-testimonial-slider-author p {
 	font-size: 20px;
@@ -6042,7 +6042,7 @@ img.aximo-video-circle {
 	margin-bottom: 40px;
 	letter-spacing: -0.5px;
 	color: var(--heading-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 @media (max-width: 1199px) {
 	.aximo-testimonial-slider-data h3 {
@@ -6121,7 +6121,7 @@ img.aximo-video-circle {
 }
 .aximo-testimonial-data5 h3 {
 	margin-bottom: 20px;
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 .aximo-testimonial-data5 p {
 	font-size: 21px;
@@ -6137,7 +6137,7 @@ img.aximo-video-circle {
 	}
 }
 .aximo-testimonial-data5 h6 {
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 .aximo-testimonial-data5 h6 span {
 	font-weight: 400;
@@ -6204,7 +6204,7 @@ img.aximo-video-circle {
 	font-size: 80px;
 	margin-bottom: 40px;
 	color: var(--light-color1);
-	font-family: "ClashGroteskSemibold";
+	font-family:"Gyrochrome", "ClashGroteskSemibold";
 }
 @media (max-width: 1199px) {
 	.aximo-cta-wrap h2 {
@@ -6267,7 +6267,7 @@ img.aximo-video-circle {
 .aximo-cta2-wrap h2 {
 	margin-bottom: 24px;
 	color: var(--light-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 .aximo-cta2-wrap p {
 	font-size: 21px;
@@ -6611,7 +6611,7 @@ img.aximo-video-circle {
 .aximo-auto-text-slider-section .aximo-auto-slider-item h3 {
 	padding: 0 12px;
 	letter-spacing: 1px;
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 }
 .aximo-auto-text-slider-section .swiper-slide:nth-child(1) .aximo-auto-slider-item h3 {
 	color: #8d7dff;
@@ -6816,7 +6816,7 @@ img.aximo-video-circle {
 	margin-bottom: 15px;
 }
 .aximo-pricing-header h3 {
-	font-family: "ClashGroteskSemibold";
+	font-family:"Gyrochrome", "ClashGroteskSemibold";
 	color: var(--heading-color2);
 }
 .aximo-pricing-price {
@@ -6825,7 +6825,7 @@ img.aximo-video-circle {
 	border-bottom: 1px solid var(--heading-color2);
 }
 .aximo-pricing-price h2 {
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	color: var(--heading-color2);
 }
 .aximo-pricing-body {
@@ -7324,7 +7324,7 @@ img.aximo-video-circle {
 .aximo-project-data2 h3 {
 	margin-bottom: 15px;
 	color: var(--light-color3);
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 }
 @media (max-width: 767px) {
 	.aximo-project-data2 h3 {
@@ -7694,7 +7694,7 @@ img.aximo-video-circle {
 }
 .aximo-project-data4 h3 {
 	margin-bottom: 12px;
-	font-family: "Libre Baskerville", serif;
+	font-family:"Gyrochrome", "Libre Baskerville", serif;
 	color: var(--heading-color4);
 }
 .aximo-project-meta ul li {
@@ -7807,7 +7807,7 @@ img.aximo-video-circle {
 }
 .aximo-service-increase-title h3 {
 	transition: all 0.4s;
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	color: var(--heading-color2);
 }
 .aximo-service-increase-body {
@@ -7902,7 +7902,7 @@ img.swipeimage {
 }
 .aximo-marketing-services-icon h3 {
 	color: var(--light-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 }
 @media (max-width: 1400px) {
 	.aximo-marketing-services-icon h3 {
@@ -7969,7 +7969,7 @@ img.swipeimage {
 .aximo-service7-title h3 {
 	font-size: 38px;
 	color: var(--light-color6);
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family:"Gyrochrome", "Bricolage Grotesque", sans-serif;
 }
 @media (max-width: 991px) {
 	.aximo-service7-title h3 {
@@ -8398,7 +8398,7 @@ a.aximo-connect-login img {
 	font-size: 80px;
 	font-weight: 600;
 	color: var(--heading-color2);
-	font-family: "ClashGroteskSemibold";
+	font-family:"Gyrochrome", "ClashGroteskSemibold";
 }
 @media (max-width: 1199px) {
 	.aximo-section-title.clash-grotesk h2 {
@@ -8420,7 +8420,7 @@ a.aximo-connect-login img {
 	letter-spacing: -1px;
 	line-height: 1em;
 	color: var(--heading-color2);
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 }
 @media (max-width: 1199px) {
 	.aximo-section-title.familjen-grotesk h2 {
@@ -8445,7 +8445,7 @@ a.aximo-connect-login img {
 	letter-spacing: -1px;
 	line-height: 1em;
 	color: var(--heading-color3);
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 }
 @media (max-width: 1400px) {
 	.aximo-section-title.arimo-font h2 {
@@ -8468,7 +8468,7 @@ a.aximo-connect-login img {
 .aximo-section-title.libre-font h2 {
 	letter-spacing: -0.5px;
 	color: var(--heading-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family:"Gyrochrome", "Libre Baskerville", serif;
 }
 .aximo-section-title.libre-font.light h2 {
 	color: var(--light-color4);
@@ -8477,7 +8477,7 @@ a.aximo-connect-login img {
 	font-size: 84px;
 	letter-spacing: -1px;
 	line-height: 1em;
-	font-family: "Playfair Display", serif;
+	font-family: "Gyrochrome","Playfair Display", serif;
 }
 @media (max-width: 1399px) {
 	.aximo-section-title.playfair h2 {
@@ -8509,7 +8509,7 @@ a.aximo-connect-login img {
 	line-height: 1.05em;
 	position: relative;
 	z-index: 0;
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family: "Gyrochrome","Bricolage Grotesque", sans-serif;
 	color: var(--heading-color6);
 }
 @media (max-width: 1399px) {
@@ -8607,7 +8607,7 @@ a.aximo-connect-login img {
 	font-size: 80px;
 	font-weight: 600;
 	color: var(--heading-color2);
-	font-family: "ClashGroteskSemibold";
+	font-family: "Gyrochrome","ClashGroteskSemibold";
 	letter-spacing: normal;
 }
 @media (max-width: 1399px) {
@@ -8634,7 +8634,7 @@ a.aximo-connect-login img {
 	font-size: 84px;
 	letter-spacing: -1px;
 	line-height: 1em;
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 }
 @media (max-width: 1399px) {
 	.aximo-default-content.familjen-grotesk h2 {
@@ -8665,7 +8665,7 @@ a.aximo-connect-login img {
 	letter-spacing: -1px;
 	line-height: 1em;
 	color: var(--heading-color3);
-	font-family: "Arimo", sans-serif;
+	font-family:"Gyrochrome", "Arimo", sans-serif;
 }
 @media (max-width: 1400px) {
 	.aximo-default-content.arimo-font h2 {
@@ -8684,14 +8684,14 @@ a.aximo-connect-login img {
 }
 .aximo-default-content.libre-font h2 {
 	color: var(--heading-color4);
-	font-family: "Libre Baskerville", serif;
+	font-family: "Gyrochrome","Libre Baskerville", serif;
 	letter-spacing: -0.5px;
 }
 .aximo-default-content.bricolage-font h2 {
 	font-size: 90px;
 	letter-spacing: -1px;
 	line-height: 1.05em;
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family: "Gyrochrome","Bricolage Grotesque", sans-serif;
 	color: var(--heading-color6);
 }
 @media (max-width: 1399px) {
@@ -8839,7 +8839,7 @@ a.aximo-connect-login img {
 }
 .aximo-contact-info h3 {
 	color: var(--light-color2);
-	font-family: "Familjen Grotesk", sans-serif;
+	font-family: "Gyrochrome","Familjen Grotesk", sans-serif;
 	margin-bottom: 30px;
 }
 .aximo-contact-info ul li {
@@ -8931,7 +8931,7 @@ a.aximo-connect-login img {
 	color: var(--light-color3);
 }
 .aximo-instagram-data h3 {
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 }
 .aximo-instagram-data h3 a {
 	color: var(--light-color3);
@@ -9133,7 +9133,7 @@ a.aximo-connect-login img {
 	font-size: 30px;
 	margin-bottom: 10px;
 	color: var(--light-color6);
-	font-family: "Bricolage Grotesque", sans-serif;
+	font-family: "Gyrochrome","Bricolage Grotesque", sans-serif;
 }
 .aximo-image-resizing-content p {
 	color: var(--light-color6);
@@ -9405,7 +9405,7 @@ a.aximo-connect-login img {
 }
 .aximo-blog-content h3 {
 	margin-bottom: 30px;
-	font-family: "Arimo", sans-serif;
+	font-family: "Gyrochrome","Arimo", sans-serif;
 	line-height: 1.33em;
 }
 @media (max-width: 767px) {
@@ -9504,7 +9504,7 @@ a.aximo-connect-login img {
 	margin-bottom: 15px;
 	line-height: 1.2em;
 	letter-spacing: -0.5px;
-	font-family: "Playfair Display", serif;
+	font-family:"Gyrochrome", "Playfair Display", serif;
 }
 @media (max-width: 1199px) {
 	.aximo-blog-content2 h3 {
@@ -9672,7 +9672,7 @@ a.post-read-more:hover img {
 	font-weight: 700;
 	color: var(--heading-color);
 	line-height: 24px; /* 133.333% */
-	font-family: "Syne", sans-serif;
+	font-family: "Gyrochrome","Syne", sans-serif;
 }
 
 .post-item {
@@ -10244,7 +10244,7 @@ a.comment-reply {
 	line-height: 1em;
 	margin-bottom: 10px;
 	letter-spacing: -1.04px;
-	font-family: "Syne", sans-serif;
+	font-family: "Gyrochrome","Syne", sans-serif;
 }
 @media (max-width: 1400px) {
 	.number {

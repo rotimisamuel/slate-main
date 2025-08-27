@@ -27,6 +27,7 @@ function HeroContent() {
 				</FadeInStaggerTwoChildren>
 				<FadeInStaggerTwoChildren>
 					<div className="aximo-hero-user-wrap">
+						{/**
 						<div className="aximo-hero-user-thumb">
 							<div className="aximo-hero-user-thumb-item">
 								<img src={User1Img} alt="User1Img" />
@@ -37,7 +38,7 @@ function HeroContent() {
 							<div className="aximo-hero-user-thumb-item">
 								<img src={User2Img} alt="User2Img" />
 							</div>
-						</div>
+						</div>**/}
 						<div className="aximo-hero-user-data">
 							<p>Powering Ambition Through Technology</p>
 						</div>
