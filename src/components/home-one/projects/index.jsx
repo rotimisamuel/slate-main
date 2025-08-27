@@ -76,7 +76,7 @@ function Projects() {
 						<span className="aximo-title-animation">
 							Get SLATE
 							<span className="aximo-title-icon">
-								<img src={Star2Img} alt="Star2Img" />
+								{/**<img src={Star2Img} alt="Star2Img" />**/}
 							</span>
 						</span>
 					</h2>

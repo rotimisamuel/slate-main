@@ -59,7 +59,7 @@ function Testimonial() {
 						<span className="aximo-title-animation">
 							satisfied with us
 							<span className="aximo-title-icon">
-								<img src={Star2Img} alt="Star2Img" />
+								{/**<img src={Star2Img} alt="Star2Img" />**/}
 							</span>
 						</span>
 					</h2>

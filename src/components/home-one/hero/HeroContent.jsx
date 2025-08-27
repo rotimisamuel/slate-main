@@ -13,7 +13,7 @@ function HeroContent() {
 					<h1>
 						<span className="aximo-title-animation">
 							Start Fresh
-							<img src={StarImg} alt="StarImg" />
+							{/**<img src={StarImg} alt="StarImg" />**/}
 						</span>{" "}
 						Start SLATE
 					</h1>

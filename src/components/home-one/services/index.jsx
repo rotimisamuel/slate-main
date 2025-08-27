@@ -12,7 +12,7 @@ function Services({ services }) {
 						<span className="aximo-title-animation">
 							with SLATE
 							<span className="aximo-title-icon">
-								<img src={Star2Img} alt="Star2Img" />
+								{/**<img src={Star2Img} alt="Star2Img" />**/}
 							</span>
 						</span>
 					</h2>
