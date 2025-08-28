@@ -5,9 +5,9 @@ function Content() {
 			<h2>
 				<span className="aximo-title-animation">
 					Our high-quality
-					<span className="aximo-title-icon">
+					{/**<span className="aximo-title-icon">
 						<img src={Star2Img} alt="Star2Img" />
-					</span>
+					</span>**/}
 				</span>{" "}
 				working processes
 			</h2>

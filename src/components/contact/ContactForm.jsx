@@ -20,12 +20,12 @@ function ContactForm() {
 						<div className="aximo-section-title">
 							<h2>
 								<span className="aximo-title-animation">
-									Contact us for a
-									<span className="aximo-title-icon">
+									Contact Us
+									{/**<span className="aximo-title-icon">
 										<img src={Star2Img} alt="Star" />
-									</span>
+									</span>**/}
 								</span>
-								personal experience
+								
 							</h2>
 						</div>
 					</div>

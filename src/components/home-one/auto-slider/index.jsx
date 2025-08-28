@@ -5,7 +5,7 @@ import { Autoplay } from "swiper/modules";
 const sliderData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Slate Laptop Series",
 		img: Star3Img,
 	},
 	{
@@ -15,7 +15,27 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Slate Phone Series",
+		img: Star3Img,
+	},
+	{
+		id: crypto.randomUUID(),
+		title: "Slate Power Bank",
+		img: Star3Img,
+	},
+	{
+		id: crypto.randomUUID(),
+		title: "Slate Tab",
+		img: Star3Img,
+	},
+	{
+		id: crypto.randomUUID(),
+		title: "Slate Desktop",
+		img: Star3Img,
+	},
+	{
+		id: crypto.randomUUID(),
+		title: "Slate UPS",
 		img: Star3Img,
 	},
 	{
@@ -25,37 +45,17 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Slate : your Catalyst for constant Evolution ",
 		img: Star3Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Slate your journey forward start here",
 		img: Star3Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
-		img: Star3Img,
-	},
-	{
-		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
-		img: Star3Img,
-	},
-	{
-		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
-		img: Star3Img,
-	},
-	{
-		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
-		img: Star3Img,
-	},
-	{
-		id: crypto.randomUUID(),
-		title: "Let's create new experiences",
+		title: "Slate: Technology that grow with you",
 		img: Star3Img,
 	},
 	{

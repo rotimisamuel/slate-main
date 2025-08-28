@@ -11,9 +11,9 @@ function ContactInfo() {
 					<h2>
 						<span className="aximo-title-animation">
 							Contact Information
-							<span className="aximo-title-icon">
+						{/**}	<span className="aximo-title-icon">
 								<img src={Star2Img} alt="Star" />
-							</span>
+							</span>**/}
 						</span>
 					</h2>
 				</div>
@@ -25,8 +25,8 @@ function ContactInfo() {
 							</div>
 							<div className="aximo-contact-info-data">
 								<span>Call us</span>
-								<p>+088-234-6532-789</p>
-								<p>+088-456-3217-005</p>
+								<p>+44-1234556</p>
+								<p>+44-1234567</p>
 							</div>
 						</div>
 					</FadeInStaggerTwoChildren>
@@ -37,8 +37,8 @@ function ContactInfo() {
 							</div>
 							<div className="aximo-contact-info-data">
 								<span>Email us</span>
-								<p>example@gmail.com</p>
-								<p>example@gmail.com</p>
+								<p>hello@slate.com</p>
+								<p>sale@slate.com</p>
 							</div>
 						</div>
 					</FadeInStaggerTwoChildren>
@@ -49,7 +49,7 @@ function ContactInfo() {
 							</div>
 							<div className="aximo-contact-info-data">
 								<span>Office address</span>
-								<p>4132 Thornridge City, New York.</p>
+								<p>4 XXXXXX United Kingdom.</p>
 							</div>
 						</div>
 					</FadeInStaggerTwoChildren>

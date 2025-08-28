@@ -42,13 +42,13 @@ function TwoColumnFaq() {
 			<div className="container">
 				<div className="aximo-section-title center">
 					<h2>
-						These FAQs help
-						<span className="aximo-title-animation">
+						FAQs/ Help
+						{/**<span className="aximo-title-animation">
 							clients learn about us
-							<span className="aximo-title-icon">
+						{/**	<span className="aximo-title-icon">
 								<img src={Star2Img} alt="Star" />
 							</span>
-						</span>
+						</span>**/}
 					</h2>
 				</div>
 				<div className="row">

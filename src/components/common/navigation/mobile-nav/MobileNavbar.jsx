@@ -46,7 +46,7 @@ const MobileNavbar = ({ menuItemsData, title }) => {
 			{showMenu && (
 				<motion.nav className="mobile-navbar" variants={animationVariants} initial="initial" animate="animate">
 					<div className="mobile-menu-head">
-						<div className="mobile-menu-head--title">Slate</div>
+						{/**<div className="mobile-menu-head--title">Slate</div>**/}
 						<div className="mobile-menu-head--close" onClick={() => setShowMenu(false)}>
 							&times;
 						</div>

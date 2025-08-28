@@ -8,17 +8,18 @@ function Story() {
 				<div className="aximo-section-title center title-description">
 					<h2>
 						<span className="aximo-title-animation">
-							We think our story is
+							Built for Leaders
 							<span className="aximo-title-icon">
-								<img src={Star2Img} alt="star" />
-							</span>
+							{/**	<img src={Star2Img} alt="star" />**/}
+							</span><br/>
 						</span>
-						worth sharing with you
+						Designed for the Future
 					</h2>
 					<p>
-						Established in 2008, we began as a small but ambitious team. We understood the importance of
-						creative and tech-savvy solutions to help businesses succeed in the ever-changing digital
-						landscape.
+						At Slate Technology, we believe technolgy should not only keep pace with the future
+						it should define it. Founded on a vision to empower leaders, innovators 
+						and high achievers, we design and deliver products that merge cutting-edge 
+						innovation with timeless sophistication
 					</p>
 				</div>
 
