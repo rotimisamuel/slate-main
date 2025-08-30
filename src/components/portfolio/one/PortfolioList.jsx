@@ -7,7 +7,7 @@ import PortfolioCard from "./PortfolioCard";
 const portfolioListData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Product Design",
+		title: "Slate Laptop",
 		description: "Developing the look and feel of physical products, aesthetics, and functionality.",
 		img: Portfolio1Img,
 	},

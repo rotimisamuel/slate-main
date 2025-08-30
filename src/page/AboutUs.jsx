@@ -12,25 +12,25 @@ import Team4Img from "../assets/images/team/team4.png";
 const teamsData = [
 	{
 		id: crypto.randomUUID(),
-		name: "Andrew Mark",
-		designation: "Creative Director",
+		name: "Rotimi Samuel",
+		designation: "CEO",
 		img: Team1Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		name: "Jack Taylor",
-		designation: "Senior Designer",
+		name: "Tamie Stephen",
+		designation: "Project Manager",
 		img: Team2Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		name: "Martine Joy",
-		designation: "Project Manager",
+		name: "Gold Samuel",
+		designation: "Project Auditor",
 		img: Team3Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		name: "Adam Straw",
+		name: "Ife Rotimi",
 		designation: "Web Developer",
 		img: Team4Img,
 	},

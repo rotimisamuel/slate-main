@@ -20,7 +20,7 @@ function SingleTeamDetails() {
 										<img src={Star2Img} alt="Star" />
 									</span>
 								</span>{" "}
-								Mr. Andrew Mark
+								Rotimi Samuel
 							</h2>
 							<p>
 								Andrew Mark is the CEO of our design agency. He plays a key role in overseeing the

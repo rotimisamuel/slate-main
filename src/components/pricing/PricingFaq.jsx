@@ -12,12 +12,12 @@ function PricingFaq() {
 							<div className="aximo-default-content">
 								<h2>
 									<span className="aximo-title-animation">
-										Read our FAQ
-										<span className="aximo-title-icon">
+										Read our FAQ <br/> for clarification
+										{/**<span className="aximo-title-icon">
 											<img src={StarImg} alt="star" />
-										</span>
+										</span>**/}
 									</span>
-									for clarification
+				
 								</h2>
 								<p>
 									We understand that you considering our services, that's why we’ve curated a

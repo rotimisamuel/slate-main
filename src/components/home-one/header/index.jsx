@@ -17,7 +17,7 @@ function Header() {
 					<div className="menu-block-wrapper">
 						<DesktopNav>
 							<NavItem url="/">Home</NavItem>	
-							<NavItem url="pricing">Products</NavItem>						
+							<NavItem url="#">Products</NavItem>						
 							<NavItem url="about-us">About Us</NavItem>
 							
 							{/**
@@ -47,8 +47,9 @@ function Header() {
 									</DropdownItem>
 								</Dropdown>
 							</NavItem>
+							blog
 							**/}
-							<NavItem url="blog">Blog</NavItem>
+							<NavItem url="#">Blog</NavItem>
 							{/**
 							<NavItem dropdown title="Blog">
 								<Dropdown>

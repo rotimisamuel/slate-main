@@ -4,7 +4,7 @@ import CountDownRenderer from "../../components/coming-soon";
 function CommingSoon() {
 	return (
 		<>
-			<Countdown date="September 30, 2025" renderer={CountDownRenderer} />
+			<Countdown date="September 10, 2025" renderer={CountDownRenderer} />
 		</>
 	);
 }

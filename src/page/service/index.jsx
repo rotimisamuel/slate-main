@@ -7,7 +7,7 @@ import WhyChooseUs from "../../components/home-one/why-choose-us";
 const services = [
 	{
 		id: crypto.randomUUID(),
-		title: "UI/UX Design",
+		title: "Slate Laptop",
 		description:
 			"Focusing on user interface (UI) and user experience (UX) design enhance the usability and accessibility of digital products & app.",
 		icon: "icon-design-tools",

@@ -32,19 +32,19 @@ const testimonialsData = [
 		rating: 5,
 		title: "Innovative and professional",
 		description:
-			"I can't say enough good things about them. Their team is not only incredibly talented but also highly professional. They listened to our ideas and brought to life in ways we couldn't have imagined. Their innovative approach and dedication to our project.",
-		author: "Smith Align",
-		designation: "Milano Joe",
+			"I can't say enough good things about them. Their team is not only incredibly talented but also highly professional. Their innovative approach and dedication to our project.",
+		author: "Chinadu Nkwa",
+		designation: "CBT",
 		img: Thumb3Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		rating: 4,
-		title: "Transformed our brand",
+		title: "Transformed our Institute",
 		description:
-			"Our partnership with Mthemeus transformed our brand from ordinary to extraordinary. Their branding expertise and design work elevated our marketing materials to a whole new level. Our customers have taken notice, and boost in brand recognition.",
-		author: "Danial Mark",
-		designation: "Marketing Director",
+			"Our partnership with Slate Technology has transformed our working style seamlessly. Their expertise and gedgets has elevated our  institute to a whole new level.",
+		author: "Dr. Tolu,",
+		designation: " ACM University",
 		img: Thumb4Img,
 	},
 ];

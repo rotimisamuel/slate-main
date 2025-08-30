@@ -6,7 +6,7 @@ import PricingPlan from "../components/pricing/PricingPlan";
 function Pricing() {
 	return (
 		<>
-			<BreadCrumb title="Pricing" />
+			<BreadCrumb title="Products" />{/**Pricing */}
 			<PricingPlan />
 			<Testimonial />
 			<AutoSlider />

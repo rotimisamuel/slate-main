@@ -17,8 +17,8 @@ import Team9Img from "../../assets/images/team/team9.png";
 const teamsData = [
 	{
 		id: crypto.randomUUID(),
-		name: "Andrew Mark",
-		designation: "Creative Director",
+		name: "Rotimi Samuel",
+		designation: "CEO",
 		img: Team1Img,
 	},
 	{

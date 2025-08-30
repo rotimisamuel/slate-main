@@ -20,12 +20,12 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Slate Power Bank",
+		title: "Slate Power Bank Series",
 		img: Star3Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Slate Tab",
+		title: "Slate Tab Series",
 		img: Star3Img,
 	},
 	{
@@ -35,7 +35,7 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Slate UPS",
+		title: "Slate UPS Series",
 		img: Star3Img,
 	},
 	{
@@ -45,12 +45,12 @@ const sliderData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Slate : your Catalyst for constant Evolution ",
+		title: "Slate: your Catalyst for constant Evolution ",
 		img: Star3Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Slate your journey forward start here",
+		title: "With SLATE your journey forward start here",
 		img: Star3Img,
 	},
 	{
