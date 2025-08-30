@@ -11,7 +11,7 @@ const projectsData = [
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Laptop Series",
-		description: "Built for students, Professionals and Creators who demand both speed and reliability. with slim all-metal designs, powerful processors, extended battery life and brilliant displays, you can carry your office your, classroon design ot business",
+		description: "Built for students, Professionals and Creators who demand both speed and reliability.",
 		img: Project1Img,
 	},
 	{

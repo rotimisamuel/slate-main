@@ -17,7 +17,7 @@ function Header() {
 					<div className="menu-block-wrapper">
 						<DesktopNav>
 							<NavItem url="/">Home</NavItem>	
-							<NavItem url="#">Products</NavItem>						
+							<NavItem url="pricing">Products</NavItem>						
 							<NavItem url="about-us">About Us</NavItem>
 							
 							{/**

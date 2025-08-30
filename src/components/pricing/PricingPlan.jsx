@@ -5,19 +5,19 @@ import PricingCard from "./PricingCard";
 const pricingPlanData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Web Design Package",
+		title: "Slate Intro Series",
 		price: [
-			{ id: 1, value: 299 },
+			{ id: 1, value: 499 },
 			{
 				id: 2,
 				value: 399,
 			},
 		],
-		description: "Web design packages offered a range of services and features to create websites",
+		description: "Laptop ",
 		features: [
 			"Consultation & Discovery",
 			"Responsive Design",
-			"E-commerce Integration",
+			"Sleek and durable built for everyday",
 			"Custom Web Design",
 			"Testing and Quality Assurance",
 		],
