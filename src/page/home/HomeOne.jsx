@@ -47,14 +47,14 @@ const servicesData = [
 const teamsData = [
 	{
 		id: crypto.randomUUID(),
-		name: "Andrew Mark",
-		designation: "Creative Director",
+		name: "Rotimi Samuel",
+		designation: "CEO",
 		img: Team1Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		name: "Jack Taylor",
-		designation: "Senior Designer",
+		name: "Tamie Stephen",
+		designation: "Project Manager",
 		img: Team2Img,
 	},
 	{

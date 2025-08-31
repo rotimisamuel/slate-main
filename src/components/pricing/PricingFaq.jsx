@@ -38,10 +38,10 @@ function PricingFaq() {
 										<img src={QuestionImg} alt="question icon" />
 									</div>
 									<div className="aximo-accordion-normal-data">
-										<h3>Can I buy multiple plans?</h3>
+										<h3>Do you offer installment payments ?</h3>
 										<p>
-											Yes, you can try us for free for 30 days. Our friendly team will work with
-											you to get you up and running as soon as possible.
+											Yes! You can buy any of our products such as laptops, 
+											phones, UPS, tablets desktops and power banks and pay in convenient installments
 										</p>
 									</div>
 								</div>
@@ -50,10 +50,10 @@ function PricingFaq() {
 										<img src={QuestionImg} alt="question icon" />
 									</div>
 									<div className="aximo-accordion-normal-data">
-										<h3>What is the cancelation policy?</h3>
+										<h3>what products do you sell?</h3>
 										<p>
-											The cancellation policy refers to the rules and guidelines established by a
-											business regarding the cancellation of services, products.
+											We sell premium laptops, phones, tablets power banks, desktops(all-in-one and tower)
+											and high-tech UPS system designed for modern use
 										</p>
 									</div>
 								</div>
@@ -62,10 +62,9 @@ function PricingFaq() {
 										<img src={QuestionImg} alt="question icon" />
 									</div>
 									<div className="aximo-accordion-normal-data">
-										<h3>How much does design work cost?</h3>
+										<h3>Do your products come with warranty?</h3>
 										<p>
-											The cost of our design services varies depending on the scope of the
-											project. We provide customized quotes after discussing requirements.
+											Yes! All our products come with a valid warranty to give you peace of mind
 										</p>
 									</div>
 								</div>

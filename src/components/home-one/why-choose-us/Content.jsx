@@ -4,20 +4,19 @@ function Content() {
 		<div className="aximo-default-content">
 			<h2>
 				<span className="aximo-title-animation">
-					Our high-quality
+					What we
 					{/**<span className="aximo-title-icon">
 						<img src={Star2Img} alt="Star2Img" />
 					</span>**/}
 				</span>{" "}
-				working processes
+				Do
 			</h2>
 			<p>
-				We focus at every stage on effective communication and collaboration between the client and ensuring
-				that the final design meets the client s objectives and expectations.
+				At Slate Technology we go beyond just selling of gadgets, we provide smart solutions that make technology accessible and tailored to your needs.
 			</p>
 			<p>
-				It is important to note that these are simplified steps, and the actual work process may vary depending
-				on the complexity of the project.
+				Whether you're a student business owner, government body or professional, 
+				we ensure you get the right device at the right price, with the flexibility to pay at your own pace
 			</p>
 		</div>
 	);

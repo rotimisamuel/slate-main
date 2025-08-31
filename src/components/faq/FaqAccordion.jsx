@@ -7,7 +7,7 @@ function FaqAccordion() {
 				<div className="aximo-section-title center">
 					<h2>
 						<span className="aximo-title-animation">
-							These FAQs help
+							FAQs vhelp
 							<span className="aximo-title-icon">
 								<img src={Star2Img} alt="Star" />
 							</span>

@@ -5,15 +5,15 @@ import PricingCard from "./PricingCard";
 const pricingPlanData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Slate Intro Series",
+		title: "Slate Laptop",
 		price: [
-			{ id: 1, value: 499 },
+			{ id: 1, value: 399 },
 			{
 				id: 2,
-				value: 399,
+				value: 499,
 			},
 		],
-		description: "Laptop ",
+		description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
 		features: [
 			"Consultation & Discovery",
 			"Responsive Design",
@@ -25,7 +25,7 @@ const pricingPlanData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "UX/UI Package",
+		title: "Tablet",
 		price: [
 			{ id: 1, value: 499 },
 			{
@@ -33,33 +33,33 @@ const pricingPlanData = [
 				value: 599,
 			},
 		],
-		description: "UX/UI package offered a set of services aimed at designing user-friendly UI/UX",
+		description: "Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
 		features: [
-			"Information Architecture",
-			"Wireframing & Prototyping",
-			"Usability Testing",
-			"Visual Design &",
-			"User Interface (UI) Design",
+			"Lightweight and portable with premium finishing",
+			"Ideal for presentations, note taking and digital creativity",
+			"Strong battery and seamless connectivity",
+			"works perfectly as a bridge between phone and laptop",
+			"wireless keyboard ",
+			
 		],
 		highlighted: true,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Branding Package",
+		title: "Desktop (All-in-One & Tower)",
 		price: [
 			{ id: 1, value: 299 },
 			{
 				id: 2,
-				value: 399,
+				value: 499,
 			},
 		],
-		description: "Branding package typically includes a comprehensive set of brand's identity",
+		description: "From training centres to high-end offices, our desktops are designed to save space and deliver raw performance",
 		features: [
-			"Brand Guidelines",
-			"Stationery & Website Design",
-			"Social Media Assets",
-			"Signage & Packaging Design",
-			"Brand Launch Support",
+			"All-in-One system CBT centres: neat, space-saving and cost effective",
+			"Tower desktops built like artifacts: Stylish, powerful and ideal for programmers, architects, creative directors and reseacher",
+			"High-speed processors and expandable storage for demanding tasks",
+			
 		],
 		highlighted: false,
 	},
@@ -85,13 +85,13 @@ function PricingPlan() {
 			<div className="container">
 				<div className="aximo-pricing-title">
 					<h2>
-						Pick from one of our
-						<span className="aximo-title-animation">
+						Pick from one of our Product
+					{/**<span className="aximo-title-animation">
 							ready packages
 							<span className="aximo-title-icon">
 								<img src={StarImg} alt="star" />
 							</span>
-						</span>
+						</span>**/}
 					</h2>
 				</div>
 				<div className="pricing-btn">

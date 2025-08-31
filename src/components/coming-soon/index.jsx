@@ -7,7 +7,7 @@ function CountDownRenderer({ days, hours, minutes, seconds }) {
 			<div className="container">
 				<div className="aximo-coming-title">
 					<h2>
-						Exciting things are
+						SLATE!!! <br/> 
 						<span className="aximo-title-animation">
 							coming soon!
 							<span className="aximo-title-icon">

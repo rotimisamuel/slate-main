@@ -6,14 +6,14 @@ function Footer() {
 			<div className="container">
 				<div className="aximo-footer-bottom">
 					<div className="row">
-						<div className="col-lg-6">
+						<div className="col-lg-2">
 							<div className="aximo-footer-logo">
 								<Link to="/">
 									<img src={Logo} alt="logo" />
 								</Link>
 							</div>
 						</div>
-						<div className="col-lg-6">
+						<div className="col-lg-10">
 							<div className="aximo-copywright one">
 								<p> &copy; Copyright 2025, All Rights Reserved by Slate</p>
 							</div>
