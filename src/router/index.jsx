@@ -36,6 +36,8 @@ import CommingSoon from "../page/utility/CommingSoon.jsx";
 import Faq from "../page/utility/Faq.jsx";
 import TestimonialPage from "../page/utility/Testimonial.jsx";
 
+import ServicesPage from "../page/slate/services.jsx";
+
 export const router = createBrowserRouter([
 	{
 		path: "/",
@@ -114,6 +116,10 @@ export const router = createBrowserRouter([
 					{
 						path: "*",
 						element: <ErrorPage />,
+					},
+					{
+						path: "/services",
+						element: <ServicesPage />,
 					},
 				],
 			},
