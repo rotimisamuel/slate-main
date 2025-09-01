@@ -106,7 +106,7 @@ export const router = createBrowserRouter([
 						element: <PortfolioOneColumn />,
 					},
 					{
-						path: "/portfolio-two",
+						path: "/products",
 						element: <PortfolioTwoColumn />,
 					},
 					{
@@ -208,3 +208,4 @@ export const router = createBrowserRouter([
 		],
 	},
 ]);
+//portfolio-two"

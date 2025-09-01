@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-function PortfolioCard({ portfolio: { title, description, img } }) {
+function PortfolioCard({ portfolio: { title, description, img, url } }) {
 	return (
 		<div className="aximo-project-thumb">
 			<img src={img} alt={title} />
