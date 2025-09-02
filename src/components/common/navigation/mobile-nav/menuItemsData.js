@@ -36,7 +36,7 @@ export const menuItemsData = [
 	},
 	{
 		title: "Products",
-		url: "#",
+		url: "products",
 	},
 
 	{
