@@ -35,7 +35,8 @@ import SingleTeam from "../page/team/SingleTeam.jsx";
 import CommingSoon from "../page/utility/CommingSoon.jsx";
 import Faq from "../page/utility/Faq.jsx";
 import TestimonialPage from "../page/utility/Testimonial.jsx";
-
+// new section
+import SlateLaptop from "../page/slate/product/laptop/SlateLaptop.jsx"
 import ServicesPage from "../page/slate/services.jsx";
 
 export const router = createBrowserRouter([
@@ -104,6 +105,10 @@ export const router = createBrowserRouter([
 					{
 						path: "/portfolio-one",
 						element: <PortfolioOneColumn />,
+					},
+					{
+						path: "/slate-laptop",
+						element: <SlateLaptop/>
 					},
 					{
 						path: "/products",

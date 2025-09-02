@@ -15,7 +15,7 @@ const portfolioListData = [
 		title: "Slate Laptop",
 		description: "Developing the look and feel of physical products, aesthetics, and functionality.",
 		img: Portfolio1Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 		
 	},
 	{
@@ -23,21 +23,21 @@ const portfolioListData = [
 		title: "Slate Tablet",
 		description: "Creating or refreshing a companys logo and developing a cohesive visual identity.",
 		img: Portfolio2Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Phone",
 		description: "Designing the UI/UX for mobile apps and web applications to ensure usability & engagement.",
 		img: Portfolio3Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Powerbank",
 		description: "Creating packaging solutions for products that not only protect attract customers on store.",
 		img: Portfolio4Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 	},
 	{
 		id: crypto.randomUUID(),
@@ -45,7 +45,7 @@ const portfolioListData = [
 		description:
 			"Designing trade show booths, exhibition spaces, and immersive installations for events and conferences.",
 		img: Portfolio5Img,
-		url: "/single-portfolio",	
+		url: "/slate-laptop",	
 	},
 	{
 		id: crypto.randomUUID(),
@@ -53,6 +53,7 @@ const portfolioListData = [
 		description:
 			"Designing trade show booths, exhibition spaces, and immersive installations for events and conferences.",
 		img: Portfolio6Img,
+		url:"/slate-laptop"
 	},
 	{
 		id: crypto.randomUUID(),
@@ -60,7 +61,7 @@ const portfolioListData = [
 		description:
 			"Developing creative concepts for print, digital, and video advertising campaigns, including ad design and copywriting",
 		img: Portfolio7Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 	},
 	{
 		id: crypto.randomUUID(),
@@ -68,7 +69,7 @@ const portfolioListData = [
 		description:
 			"Designing and building user-friendly websites that are visually appealing and responsive to different devices.",
 		img: Portfolio8Img,
-		url: "/single-portfolio",
+		url: "/slate-laptop",
 	},
 ];
 function PortfolioList() {
