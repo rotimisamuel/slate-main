@@ -36,8 +36,10 @@ import CommingSoon from "../page/utility/CommingSoon.jsx";
 import Faq from "../page/utility/Faq.jsx";
 import TestimonialPage from "../page/utility/Testimonial.jsx";
 // new section
-import SlateLaptop from "../page/slate/product/laptop/SlateLaptop.jsx"
+import SlateLaptop from "../page/slate/product/laptop/SlateLaptop.jsx";
 import ServicesPage from "../page/slate/services.jsx";
+import SlatePhone from "../page/slate/product/phone/SlatePhone.jsx";
+import SlatePhonePrice from "../page/slate/product/phone/PhonePricingCad.jsx"
 
 export const router = createBrowserRouter([
 	{
@@ -109,6 +111,14 @@ export const router = createBrowserRouter([
 					{
 						path: "/slate-laptop",
 						element: <SlateLaptop/>
+					},
+					{
+						path: "/slate-phone",
+						element: <SlatePhone/>
+					},
+					{
+						path: "/phone-pricing",
+						element: <SlatePhonePrice />,
 					},
 					{
 						path: "/products",
