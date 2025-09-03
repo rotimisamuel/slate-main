@@ -78,7 +78,7 @@ function PortfolioDetails() {
 											<h3>
 												{index + 1}. {item.title}:
 											</h3>
-											<p>{item.text} <a href=""> product specification</a></p>
+											<p>{item.text} <a href="/pricing"> product specification</a></p>
 										</div>
 									))}
 								</div>

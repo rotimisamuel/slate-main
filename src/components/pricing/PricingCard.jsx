@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
 import CheckImg from "../../assets/images/icon/check.svg";
-function PricingCard({ plan: { title, description, price, features, highlighted }, frequency }) {
+function PricingCard({ plan: { title, description, tag, price, features, highlighted }, frequency }) {
 	return (
 		<div className="aximo-pricing-wrap2">
 			<div className="aximo-pricing-header2">
 				<h5>{title}</h5>
 			</div>
-			<div className="aximo-pricing-price2">
+			{/**<div className="aximo-pricing-price2">
 				<h2>
 					$
 					{price.map((item) => {
@@ -15,10 +15,13 @@ function PricingCard({ plan: { title, description, price, features, highlighted 
 						}
 					})}
 				</h2>
-			</div>
+			</div> **/}
 			<div className="aximo-pricing-description">
 				<p>{description}</p>
 			</div>
+			<div className="aximo-pricing-header2">
+				<h5>{tag}</h5>
+			</div> 
 			<div className="aximo-pricing-body2">
 				<ul>
 					{features.map((feature) => (

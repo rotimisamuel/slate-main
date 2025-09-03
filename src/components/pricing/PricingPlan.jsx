@@ -5,7 +5,8 @@ import PricingCard from "./PricingCard";
 const pricingPlanData = [
 	{
 		id: crypto.randomUUID(),
-		title: "Slate Laptop",
+		title: "SLATE INTRO Laptop",
+		tag: "FEATURES",
 		price: [
 			{ id: 1, value: 399 },
 			{
@@ -15,17 +16,20 @@ const pricingPlanData = [
 		],
 		description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
 		features: [
-			"Consultation & Discovery",
-			"Responsive Design",
+			"CPU: Intel Core i3 / AMD Ryzen 3 / 5",
+			"GPU: Intel UHD Iris/ Vega",
+			"Screen: 14inch HD (1366*768) TN, panel",
+			"Wireless: Wi-Fi 6 / Bluetooth 5.1",
 			"Sleek and durable built for everyday",
 			"Custom Web Design",
+			"Custom flash drive cartridge",
 			"Testing and Quality Assurance",
 		],
 		highlighted: false,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Tablet",
+		title: "SLATE STANDARD",
 		price: [
 			{ id: 1, value: 499 },
 			{
@@ -33,20 +37,24 @@ const pricingPlanData = [
 				value: 599,
 			},
 		],
-		description: "Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
+		description: "Dependable, sleek device that delivers power for personal use. Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
+		tag: "FEATURES",
 		features: [
 			"Lightweight and portable with premium finishing",
-			"Ideal for presentations, note taking and digital creativity",
+			"CPU: Intel Core i3 / AMD Ryzen 3 / 5",
+			"GPU: Intel UHD Iris/ Vega",
 			"Strong battery and seamless connectivity",
-			"works perfectly as a bridge between phone and laptop",
-			"wireless keyboard ",
+			"STORAGE: 256GB SSD (NVMe optional)",
+			"KEYBOARD: Backlit, ergonomic",
+			"CONNECTIVITY: Wi-Fi 6 / Bluetooth 5.1",
+			"SCREEN: 15.6inch FHD (1920 * 1020) IPS Anti-glare ",
 			
 		],
 		highlighted: true,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Desktop (All-in-One & Tower)",
+		title: "SLATE ULTRA LAPTOP",
 		price: [
 			{ id: 1, value: 299 },
 			{
@@ -54,11 +62,16 @@ const pricingPlanData = [
 				value: 499,
 			},
 		],
-		description: "From training centres to high-end offices, our desktops are designed to save space and deliver raw performance",
+		description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
+		tag: "FEATURES",
 		features: [
-			"All-in-One system CBT centres: neat, space-saving and cost effective",
-			"Tower desktops built like artifacts: Stylish, powerful and ideal for programmers, architects, creative directors and reseacher",
-			"High-speed processors and expandable storage for demanding tasks",
+			"CPU: Intel Core i5 / i7 / Ryzen 7",
+			"GPU: Intel Iris Xe / NVIDIA MX 450 (optional )",
+			"RAM: 16GB DDR4 / LPDDR5 (expandable to 32GB )",
+			"KEYBOARD: split resistant, fingerprint lock.",
+			"SCREEN: 15.1 / 16.1 inch FHD/QHD IPS wide view",
+			"PORT: 2x USB-A, 2x USB-C, 1x HDMI, Thunderbolt",
+			"KEYBOARD: split resistant, fingerprint lock.",
 			
 		],
 		highlighted: false,
