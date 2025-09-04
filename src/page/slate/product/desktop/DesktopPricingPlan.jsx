@@ -6,7 +6,7 @@ import DesktopPricingCard from "./DesktopPricingCard";
 const pricingPlanData = [
     {
         id: crypto.randomUUID(),
-        title: "SLATE FLEX",
+        title: "LITE",
         tag: "FEATURES",
         price: [
             { id: 1, value: 399 },
@@ -17,20 +17,20 @@ const pricingPlanData = [
         ],
         description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
         features: [
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Screen: 14inch HD (1366*768) TN, panel",
-            "Wireless: Wi-Fi 6 / Bluetooth 5.1",
-            "Sleek and durable built for everyday",
-            "Custom Web Design",
-            "Custom flash drive cartridge",
-            "Testing and Quality Assurance",
+            "CPU: Intel core i5/ i7 (12th Gen) or AMD Ryzen 5 / 7",
+            "GPU: integrated intel UHD Graphics",
+            "RAM: 4 GB / 8GB DDR4",
+            "STORAGE: 128 GB /256 GB (SATA or NVMe)",
+            "Screen: 21.5inch or 23.8inch Full HD (1920x1080), IPS anti-glare panel",
+            "Wireless: Wi-Fi 5 or 6, Bluetooth 5.2",
+            "FINGERPRINT LOGIN: Built into power button (Windows Hello supported)",
+            "PORT: 4x USB 3.0, 1x USB-C, HDMI Out, RJ45 LAN"
         ],
         highlighted: false,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE STANDARD",
+        title: "PRO",
         price: [
             { id: 1, value: 499 },
             {
@@ -42,20 +42,20 @@ const pricingPlanData = [
         tag: "FEATURES",
         features: [
             "Lightweight and portable with premium finishing",
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Strong battery and seamless connectivity",
-            "STORAGE: 256GB SSD (NVMe optional)",
-            "KEYBOARD: Backlit, ergonomic",
-            "CONNECTIVITY: Wi-Fi 6 / Bluetooth 5.1",
-            "SCREEN: 15.6inch FHD (1920 * 1020) IPS Anti-glare ",
+            "CPU: Intel core i5/ i7 (12th Gen) or AMD Ryzen 5 / 7",
+            "GPU: integrated intel UHD Graphics/ optional NVIDIA GT 1030 or RTX 3050",
+            "RAM: 8GB or 16GB DDR4/ DDR5 (up to 64GB)",
+            "STORAGE: 512 GB NVMe SSD + optional 1 TB HDD",
+            "NETWORKING: Ethernet, Wi-Fi 6, Bluetooth 5.2",
+            "SCREEN: 24inch or 27inch Full HD/ QHD, IPS, Slim bezel ",
+            "PORT: 6x USB 3.0, 1x USB-C, VGA, HDMI, Audio in/out, SD reader",
             
         ],
         highlighted: true,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE ULTRA LAPTOP",
+        title: "PRO LITE",
         price: [
             { id: 1, value: 299 },
             {
@@ -66,13 +66,14 @@ const pricingPlanData = [
         description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
         tag: "FEATURES",
         features: [
-            "CPU: Intel Core i5 / i7 / Ryzen 7",
-            "GPU: Intel Iris Xe / NVIDIA MX 450 (optional )",
-            "RAM: 16GB DDR4 / LPDDR5 (expandable to 32GB )",
-            "KEYBOARD: split resistant, fingerprint lock.",
-            "SCREEN: 15.1 / 16.1 inch FHD/QHD IPS wide view",
-            "PORT: 2x USB-A, 2x USB-C, 1x HDMI, Thunderbolt",
-            "KEYBOARD: split resistant, fingerprint lock.",
+            "CPU: Intel core i5/ i7 (12th Gen) or AMD Ryzen 5 / 7",
+            "GPU: intel iris Xe/ integrated Vega/ NVIDIA MX550",
+            "RAM: 16GB DDR4/ DDR5 (up to 64GB)",
+            "STORAGE: 512 GB NVMe SSD (PCLe 4.0) + optional 1 TB HDD",
+            "SCREEN: 23.8inch / 27inch full HD or QHD edge to edge touch screen",
+            "PORT: 3x USB 3.0, 2x USB-C, HDMI Out, RJ45 LAN, Audio Combo Jack, SD slot",
+            "WEBCAM: pop up IR cam with window hello + mic.",
+            "FINGERPRINT: Fingerprint power button, ambient light sensor, magnetic port cover"
             
         ],
         highlighted: false,

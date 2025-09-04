@@ -7,18 +7,18 @@ import ArrowRightImg from "../../../../assets/images/icon/arrow-right.svg";
 const projectResolveSteps = [
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE INTRO",
+		title: "INTRO Laptop",
 		text: "Slate Intro is designed for those who understand the need for proformance and durability, but require budget friendly laptop. ",
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE STANDARD",
-		text: "Slate Intro is designed for those who understand the need for proformance and durability, but require budget friendly laptop..",
+		title: "STANDARD Laptop",
+		text: "This is ideal for those need more than web browsing: coding, AutoCAD basics, Canvas, Adobe Suite, video editing (Premiere Pro, Davinci Resolve), UI/UX tools (Figma, XD) and large project files.",
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE ULTRA",
-		text: "Slate Intro is designed for those who understand the need for proformance and durability, but require budget friendly laptop.",
+		title: "ULTRA Laptop",
+		text: "Designed for those who demand the best in speed, graphics and performance, often working on complex projects or high-end creative work.",
 	},
 ];
 function PortfolioDetails() {

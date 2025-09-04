@@ -5,7 +5,7 @@ import PricingCard from "./PricingCard";
 const pricingPlanData = [
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE INTRO Laptop",
+		title: "INTRO Laptop",
 		tag: "FEATURES",
 		price: [
 			{ id: 1, value: 399 },
@@ -29,7 +29,7 @@ const pricingPlanData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE STANDARD",
+		title: "STANDARD Laptop",
 		price: [
 			{ id: 1, value: 499 },
 			{
@@ -54,7 +54,7 @@ const pricingPlanData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "SLATE ULTRA LAPTOP",
+		title: "ULTRA Laptop",
 		price: [
 			{ id: 1, value: 299 },
 			{
@@ -62,7 +62,7 @@ const pricingPlanData = [
 				value: 499,
 			},
 		],
-		description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
+		description: "Designed for the future, a machine that can keep up with or evolve with the future Ultra- slim, light weight, High performance, premium design(luxury) and features",
 		tag: "FEATURES",
 		features: [
 			"CPU: Intel Core i5 / i7 / Ryzen 7",
@@ -98,7 +98,7 @@ function PricingPlan() {
 			<div className="container">
 				<div className="aximo-pricing-title">
 					<h2>
-						Pick from one of our Product
+						Pick from one of our Laptop
 					{/**<span className="aximo-title-animation">
 							ready packages
 							<span className="aximo-title-icon">

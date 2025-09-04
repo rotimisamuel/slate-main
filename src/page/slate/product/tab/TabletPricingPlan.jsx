@@ -6,7 +6,7 @@ import TabletPricingCard from "./TabletPricingCard";
 const pricingPlanData = [
     {
         id: crypto.randomUUID(),
-        title: "SLATE FLEX",
+        title: "CLASSIC",
         tag: "FEATURES",
         price: [
             { id: 1, value: 399 },
@@ -30,7 +30,7 @@ const pricingPlanData = [
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE STANDARD",
+        title: "BUSINESS",
         price: [
             { id: 1, value: 499 },
             {
@@ -55,7 +55,7 @@ const pricingPlanData = [
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE ULTRA LAPTOP",
+        title: "ELITE",
         price: [
             { id: 1, value: 299 },
             {

@@ -7,17 +7,17 @@ import ArrowRightImg from "../../../../assets/images/icon/arrow-right.svg";
 const projectResolveSteps = [
     {
         id: crypto.randomUUID(),
-        title: "SLATE FLEX",
+        title: "CLASSIC Tablet",
         text: "Slate Flex, designed for those Who leaves home early in the morning, comes back late nights and needs a phone that last all day.  ",
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE NOVA",
+        title: "BUSINESS Tablet",
         text: "Slate Nova is designed for the creators who bend tech to their vibe not the other way around (Style meets power built for your everyday grind and glow",
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE ELITE",
+        title: "ELITE Tablet",
         text: "Designed Beyond premium, beyond boundaries, Designed for excellence, power, class and control in your palm just like Ọpá Aṣẹ",
     },
 ];
@@ -58,16 +58,12 @@ function PortfolioDetails() {
                             <div className="aximo-default-content m-right-gap">
                                 <h2>
                                     <span className="aximo-title-animation">
-                                    Slate Phone Series	
+                                    Slate Tablet Series	
                                     </span>
                                 </h2>
                                 <p>
-                                    <b>ỌPÁ AṢẸ - THE STAFF OF AUTHORITY, REBORN IN YOUR HANDS AS SLATE PHONE</b><br/>
-                                    In the dawn of civilizations, when the Ọpá Aṣẹ (Staff of Authority) crowned 
-                                    kings with divine command, it was never just an object. 
-                                    It was a covenant — power to decide, wisdom to lead, and resilience to outlast 
-                                    storms. That spirit has not faded. It has only transformed. 
-                                    Today, that ancient authority lives again, reborn as Slate Phone series 
+                                    <b>Tablet</b><br/>
+                                   
                                      <a href=""> Read more<img src={ArrowRightImg} alt="arrow right" /></a>
                                 </p>
                                 
