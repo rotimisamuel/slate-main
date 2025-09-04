@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import CheckImg from "../../../../assets/images/icon/check.svg";
-function PhonePricingCard({ plan: { title, description, tag, price, features, highlighted }, frequency }) {
+function DesktopPricingCard({ plan: { title, description, tag, price, features, highlighted }, frequency }) {
     return (
         <div className="aximo-pricing-wrap2">
             <div className="aximo-pricing-header2">
@@ -32,11 +32,11 @@ function PhonePricingCard({ plan: { title, description, tag, price, features, hi
                     ))}
                 </ul>
             </div>
-            <Link className={`aximo-pricing-btn2 ${highlighted && "active"}`} to="/phone-price">
+            <Link className={`aximo-pricing-btn2 ${highlighted && "active"}`} to="#">
                 Select the package
             </Link>
         </div>
     );
 }
 
-export default PhonePricingCard;
+export default DesktopPricingCard;

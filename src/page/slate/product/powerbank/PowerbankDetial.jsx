@@ -1,6 +1,6 @@
 import Single1Img from "../../../../assets/images/portfolio/p_3.png";
 import Single2Img from "../../../../assets/images/portfolio/p_single2.png";
-import Star2Img from "../../../../assets/images/v1/star2.png";
+//import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInRight from "../../../../components/animation/FadeInRight";
 import FadeInUp from "../../../../components/animation/FadeInLeft";
 import ArrowRightImg from "../../../../assets/images/icon/arrow-right.svg";
@@ -77,7 +77,7 @@ function PortfolioDetails() {
 											<h3>
 												{index + 1}. {item.title}:
 											</h3>
-											<p>{item.text} <a href="/phone-spec"> check product specification</a></p>
+											<p>{item.text} <a href="/powerbank-capacities"> check product specification</a></p>
 										</div>
 									))}
 								</div>

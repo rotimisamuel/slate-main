@@ -1,7 +1,7 @@
 import { useState } from "react";
 //import StarImg from "../../../../assets/images/v1/icon/star2.png";
 import FadeInStagger from "../../../../components/animation/FadeInStagger";
-import PhonePricingCard from "./PhonePricingCard";
+import PowerbankPricingCard from "./PowerbankPricingCard";
 
 const pricingPlanData = [
     {
@@ -78,7 +78,7 @@ const pricingPlanData = [
         highlighted: false,
     },
 ];
-function PhonePricingPlan() {
+function PowerbankPricingPlan() {
     const frequencies = [
         { id: 1, label: "Annually" },
         { id: 2, label: "Monthly" },
@@ -122,7 +122,7 @@ function PhonePricingPlan() {
                 <div className="row" id="table-price-value">
                     {pricingPlanData.map((plan, index) => (
                         <FadeInStagger className="col-xl-4 col-md-6" key={plan.id} index={index}>
-                            <PhonePricingCard plan={plan} frequency={frequency} />
+                            <PowerbankPricingCard plan={plan} frequency={frequency} />
                         </FadeInStagger>
                     ))}
                 </div>
@@ -130,4 +130,4 @@ function PhonePricingPlan() {
         </div>
     );
 }
-export default PhonePricingPlan;
+export default PowerbankPricingPlan;

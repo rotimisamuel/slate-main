@@ -39,7 +39,15 @@ import TestimonialPage from "../page/utility/Testimonial.jsx";
 import SlateLaptop from "../page/slate/product/laptop/SlateLaptop.jsx";
 import ServicesPage from "../page/slate/services.jsx";
 import SlatePhone from "../page/slate/product/phone/SlatePhone.jsx";
-import SlatePhonePrice from "../page/slate/product/phone/PhonePricingCad.jsx"
+import Phones from "../page/slate/product/phone/Phones.jsx";
+import SlatePowerbank from "../page/slate/product/powerbank/SlatePowerbank.jsx";
+import Powerbank from "../page/slate/product/powerbank/Powerbank.jsx";
+import SlateTablet from "../page/slate/product/tab/SlateTab.jsx";
+import Tablet from "../page/slate/product/tab/Tablet.jsx";
+import SlateUPS from "../page/slate/product/ups/SlateUPS.jsx";
+import UPS from "../page/slate/product/ups/UPS.jsx";
+import SlateDesktop from "../page/slate/product/desktop/SlateDesktop.jsx";
+import Desktop from "../page/slate/product/desktop/Desktop.jsx";
 
 export const router = createBrowserRouter([
 	{
@@ -117,8 +125,40 @@ export const router = createBrowserRouter([
 						element: <SlatePhone/>
 					},
 					{
-						path: "/phone-pricing",
-						element: <SlatePhonePrice />,
+						path: "/slate-powerbank",
+						element:<SlatePowerbank/>
+					},
+					{
+						path: "/phone-spec",
+						element: <Phones />,
+					},
+					{
+						path: "/powerbank-capacities",
+						element: <Powerbank/>
+					},
+					{
+						path: "/slate-tablet",
+						element: <SlateTablet/>
+					},
+					{
+						path: "/tablet-spec",
+						element: <Tablet/>
+					},
+					{
+						path: "/slate-ups",
+						element: <SlateUPS/>
+					},
+					{
+						path:"/ups-capacities",
+						element:<UPS />
+					},
+					{
+						path: "/slate-desktop",
+						element: <SlateDesktop/>
+					},
+					{
+						path: "/desktop-spec",
+						element: <Desktop/>
 					},
 					{
 						path: "/products",
