@@ -6,7 +6,7 @@ import UPSPricingCard from "./UPSPricingCard";
 const pricingPlanData = [
     {
         id: crypto.randomUUID(),
-        title: "SLATE FLEX",
+        title: "SLATE UPS-650",
         tag: "FEATURES",
         price: [
             { id: 1, value: 399 },
@@ -15,22 +15,21 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
+        description: " ",
         features: [
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Screen: 14inch HD (1366*768) TN, panel",
-            "Wireless: Wi-Fi 6 / Bluetooth 5.1",
-            "Sleek and durable built for everyday",
-            "Custom Web Design",
-            "Custom flash drive cartridge",
-            "Testing and Quality Assurance",
+            "CAPACITY: 650 VA",
+            "RATE OUTPUT POWER (Watts): 360W",
+            "IDEAL LOAD: 1 desktop + router",
+            "BACKUP TIME: 15min -20min",
+            "OUTPUT VOLTAGE REGULATION: plus minus 10%",
+            "TRANSFER TIME: <10ms",
+            "INPUT VOLTAGE RANGE:220 - 240V",
         ],
         highlighted: false,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE STANDARD",
+        title: "SLATE UPS-1000",
         price: [
             { id: 1, value: 499 },
             {
@@ -38,24 +37,23 @@ const pricingPlanData = [
                 value: 599,
             },
         ],
-        description: "Dependable, sleek device that delivers power for personal use. Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
+        description: " ",
         tag: "FEATURES",
         features: [
-            "Lightweight and portable with premium finishing",
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Strong battery and seamless connectivity",
-            "STORAGE: 256GB SSD (NVMe optional)",
-            "KEYBOARD: Backlit, ergonomic",
-            "CONNECTIVITY: Wi-Fi 6 / Bluetooth 5.1",
-            "SCREEN: 15.6inch FHD (1920 * 1020) IPS Anti-glare ",
+            "CAPACITY: 1000VA",
+            "IDEAL LOAD: 2 desktop + monitor",
+            "RATE OUTPUT POWER (Watts): 600W",
+            "BACKUP TIME: 20min -30min",
+            "TRANSFER TIME: <10ms",
+             "OUTPUT VOLTAGE REGULATION: plus minus 10%",
+            "INPUT VOLTAGE RANGE:220 - 240V",
             
         ],
         highlighted: true,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE ULTRA LAPTOP",
+        title: "SLATE UPS-2000",
         price: [
             { id: 1, value: 299 },
             {
@@ -66,13 +64,12 @@ const pricingPlanData = [
         description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
         tag: "FEATURES",
         features: [
-            "CPU: Intel Core i5 / i7 / Ryzen 7",
-            "GPU: Intel Iris Xe / NVIDIA MX 450 (optional )",
-            "RAM: 16GB DDR4 / LPDDR5 (expandable to 32GB )",
-            "KEYBOARD: split resistant, fingerprint lock.",
-            "SCREEN: 15.1 / 16.1 inch FHD/QHD IPS wide view",
-            "PORT: 2x USB-A, 2x USB-C, 1x HDMI, Thunderbolt",
-            "KEYBOARD: split resistant, fingerprint lock.",
+            "CAPACITY: 2000VA",
+            "RATE OUTPUT POWER (Watts): 1200W",
+             "BACKUP TIME: 35min - 45min",
+            "TRANSFER TIME: <10ms",
+             "OUTPUT VOLTAGE REGULATION: plus minus 10%",
+            "INPUT VOLTAGE RANGE:220 - 240V",
             
         ],
         highlighted: false,
@@ -99,7 +96,7 @@ function UPSPricingPlan() {
             <div className="container">
                 <div className="aximo-pricing-title">
                     <h2>
-                        Pick from one of our Product
+                        Pick from one of our UPS
                     {/**<span className="aximo-title-animation">
                             ready packages
                             <span className="aximo-title-icon">

@@ -1,4 +1,4 @@
-import Single1Img from "../../../../assets/images/portfolio/p_3.png";
+import Single1Img from "../../../../assets/images/portfolio/Tab.png";
 import Single2Img from "../../../../assets/images/portfolio/p_single2.png";
 //import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInRight from "../../../../components/animation/FadeInRight";
