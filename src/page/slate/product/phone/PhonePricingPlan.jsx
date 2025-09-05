@@ -15,22 +15,23 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
+        description: "",
         features: [
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Screen: 14inch HD (1366*768) TN, panel",
-            "Wireless: Wi-Fi 6 / Bluetooth 5.1",
-            "Sleek and durable built for everyday",
-            "Custom Web Design",
-            "Custom flash drive cartridge",
-            "Testing and Quality Assurance",
+            "CPU: Media Tek Helio G37 / Uniscc T616 Octa core",
+            "RAM: 4GB / 4 GB LPDDR4X",
+            "SCREEN: 6.52 Inch HD + (1600 x720) IPS penal",
+            "CAMERA: 13MP +2MP Depth",
+            "WIRELESS: 4 LTE + Dual SIM",
+            "OS: Android 14",
+            "STORAGE: 64 GB eMMC (expandable via microSD to 256GB",
+            "Security: Side mounted fingerprint + face ID",
+            "BATTERY: 5000mAh, USB-C charging (10W)",
         ],
         highlighted: false,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE STANDARD",
+        title: "NOVA",
         price: [
             { id: 1, value: 499 },
             {
@@ -38,24 +39,24 @@ const pricingPlanData = [
                 value: 599,
             },
         ],
-        description: "Dependable, sleek device that delivers power for personal use. Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
+        description: " ",
         tag: "FEATURES",
         features: [
-            "Lightweight and portable with premium finishing",
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Strong battery and seamless connectivity",
-            "STORAGE: 256GB SSD (NVMe optional)",
-            "KEYBOARD: Backlit, ergonomic",
-            "CONNECTIVITY: Wi-Fi 6 / Bluetooth 5.1",
-            "SCREEN: 15.6inch FHD (1920 * 1020) IPS Anti-glare ",
+            "CPU: Qualcomm snapdragon 695 or Dimensity 6100+",
+            "RAM: 8GB / 8 GB LPDDR4X",
+            "CAMERA: Rear:64MP main + 8 MP Ultra- wide + 2MP macro, front: 16MP punch-hole",
+            "STORAGE: 128GB / 256GB UFS 2.2",
+            "OS: Android 14 ",
+            "CONNECTIVITY: 5G + Wi-Fi 6 + Bluetooth 5.2",
+            "SCREEN: 6.67 inch FHD + AMOLED 120Hz refresh rate",
+            "BATTERY: 5000mAh USB-C fast charging (33W)",
             
         ],
         highlighted: true,
     },
     {
         id: crypto.randomUUID(),
-        title: "SLATE ULTRA LAPTOP",
+        title: "ELITE",
         price: [
             { id: 1, value: 299 },
             {
@@ -63,16 +64,17 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
+        description: " ",
         tag: "FEATURES",
         features: [
-            "CPU: Intel Core i5 / i7 / Ryzen 7",
-            "GPU: Intel Iris Xe / NVIDIA MX 450 (optional )",
-            "RAM: 16GB DDR4 / LPDDR5 (expandable to 32GB )",
-            "KEYBOARD: split resistant, fingerprint lock.",
-            "SCREEN: 15.1 / 16.1 inch FHD/QHD IPS wide view",
-            "PORT: 2x USB-A, 2x USB-C, 1x HDMI, Thunderbolt",
-            "KEYBOARD: split resistant, fingerprint lock.",
+            "CPU: Qualcomm snapdragon 8 Gen 2 / Media Tek Dimensity 9200+",
+            "GPU: Intel Iris Xe / NVIDIA MX 450",
+            "RAM: 16 GB LPDDR4X",
+            "STORAGE: 256GB / 512GB UFS 4.0",
+            "OS: Android 15",
+            "SCREEN: 6.78 inch, 2k AMOLED, 144Hz, HDR10",
+            "CAMERA: Rear-Triple AI camera (108 PM main + 12 MP Ultra-wide + 10 MP Telephoto ), front-32MP under-display",
+            "BATTERY: 4800mAh, 65W superfast charging",
             
         ],
         highlighted: false,
@@ -99,7 +101,7 @@ function PhonePricingPlan() {
             <div className="container">
                 <div className="aximo-pricing-title">
                     <h2>
-                        Pick from one of our Product
+                        Pick from one of our Phone
                     {/**<span className="aximo-title-animation">
                             ready packages
                             <span className="aximo-title-icon">

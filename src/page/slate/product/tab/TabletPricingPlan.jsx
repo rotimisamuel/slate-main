@@ -71,7 +71,7 @@ const pricingPlanData = [
             "OS: Android 14 ",
             "SCREEN: 12.4 Full HD+ (1920x1200) or QHD+ IPS LCD",
             "CONNECTIVITY: Wi-Fi 6E, 4G LTE (SIM + eSIM support, Bluetooth 5.3",
-            "BATTERY: 1000mAh",
+            "BATTERY: 10000mAh",
             
         ],
         highlighted: false,

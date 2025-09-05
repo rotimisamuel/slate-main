@@ -4,7 +4,7 @@ import PhoneDetails from "./SlatePhoneDetial";
 function SlatePhone() {
 	return (
 		<>
-			<BreadCrumb title="Phone Deatails" />
+			<BreadCrumb title="Phone Details" />
 			<PhoneDetails />
 			{/**<Projects />**/}
 		</>
