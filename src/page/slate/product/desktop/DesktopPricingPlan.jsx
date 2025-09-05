@@ -15,14 +15,15 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
+        description: "The LITE is designed for training centres, students and offices that value simplicity and elegance. Slim design with minimal desk footprint",
         features: [
-            "CPU: Intel core i5/ i7 (12th Gen) or AMD Ryzen 5 / 7",
+            "CPU: intel celeron N5105/ Pentium Silver",
             "GPU: integrated intel UHD Graphics",
             "RAM: 4 GB / 8GB DDR4",
             "STORAGE: 128 GB /256 GB (SATA or NVMe)",
-            "Screen: 21.5inch or 23.8inch Full HD (1920x1080), IPS anti-glare panel",
+            "SCREEN: 21.5inch or 23.8inch Full HD (1920x1080), IPS anti-glare panel",
             "Wireless: Wi-Fi 5 or 6, Bluetooth 5.2",
+            "WEBCAM: 720p with privacy shutter + mic",
             "FINGERPRINT LOGIN: Built into power button (Windows Hello supported)",
             "PORT: 4x USB 3.0, 1x USB-C, HDMI Out, RJ45 LAN"
         ],
@@ -41,12 +42,12 @@ const pricingPlanData = [
         description: "Dependable, sleek device that delivers power for personal use. Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
         tag: "FEATURES",
         features: [
-            "Lightweight and portable with premium finishing",
             "CPU: Intel core i5/ i7 (12th Gen) or AMD Ryzen 5 / 7",
             "GPU: integrated intel UHD Graphics/ optional NVIDIA GT 1030 or RTX 3050",
             "RAM: 8GB or 16GB DDR4/ DDR5 (up to 64GB)",
             "STORAGE: 512 GB NVMe SSD + optional 1 TB HDD",
             "NETWORKING: Ethernet, Wi-Fi 6, Bluetooth 5.2",
+            "WEBCAM: External 1080p webcam (USB-C )",
             "SCREEN: 24inch or 27inch Full HD/ QHD, IPS, Slim bezel ",
             "PORT: 6x USB 3.0, 1x USB-C, VGA, HDMI, Audio in/out, SD reader",
             
@@ -100,7 +101,7 @@ function DesktopPricingPlan() {
             <div className="container">
                 <div className="aximo-pricing-title">
                     <h2>
-                        Pick from one of our Product
+                        Pick from one of our Desktop
                     {/**<span className="aximo-title-animation">
                             ready packages
                             <span className="aximo-title-icon">
