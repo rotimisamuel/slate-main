@@ -8,17 +8,17 @@ const projectResolveSteps = [
     {
         id: crypto.randomUUID(),
         title: "CLASSIC Tablet",
-        text: "Slate Flex, designed for those Who leaves home early in the morning, comes back late nights and needs a phone that last all day.  ",
+        text: " This tablet is built to be durable, reliable, and student-friendly — a study partner that never fails, battery-life longevity",
     },
     {
         id: crypto.randomUUID(),
         title: "BUSINESS Tablet",
-        text: "Slate Nova is designed for the creators who bend tech to their vibe not the other way around (Style meets power built for your everyday grind and glow",
+        text: "The Business Tablet is built for productivity. it's not just a tablet-it's your portable office, Enterprise-grade security features to protect your data.",
     },
     {
         id: crypto.randomUUID(),
         title: "ELITE Tablet",
-        text: "Designed Beyond premium, beyond boundaries, Designed for excellence, power, class and control in your palm just like Ọpá Aṣẹ",
+        text: "Elite Tablet is designed for C-Suite executive, luxury brand creative director, elite tech enthusiast, Encrypted data vault — top-level business security. Not just a tool, but a symbol of status ",
     },
 ];
 function PortfolioDetails() {
@@ -62,8 +62,9 @@ function PortfolioDetails() {
                                     </span>
                                 </h2>
                                 <p>
-                                    <b>Tablet</b><br/>
-                                   
+                                    <b>Slate Tablet - Work, Create and Inspire Anzwhere</b><br/>
+                                    Our tablets are designed for managers, consultants and entrepreneurs who need flexibility without compromise. Lightweight and portable with premium finishing.
+                                   works perfectly as a bridge between phone and laptop
                                      <a href=""> Read more<img src={ArrowRightImg} alt="arrow right" /></a>
                                 </p>
                                 

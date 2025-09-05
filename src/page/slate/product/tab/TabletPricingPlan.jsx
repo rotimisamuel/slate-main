@@ -15,16 +15,16 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Our Laptop are built for students, professionals and creators who demand both speed and reliability. with slim designs, powerful processors, extended battery life and brilliant display, you can carry your office, classroom or studio anywhere",
+        description: "That device is lightweight, easy to carry and ready for note-taking, browsing, Value simplicity, battery longevity",
         features: [
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Screen: 14inch HD (1366*768) TN, panel",
-            "Wireless: Wi-Fi 6 / Bluetooth 5.1",
+            "CPU: Octa-core ARM Cortex-A76/A55 or Snapdragon 7 series",
+            "RAM: 4GB",
+            "STORAGE: 64GB",
+            "Screen: 10.1 inch Full HD+ (1920x1200) or QHD+ IPS LCD",
+            "OS: Android 14",
+            "CONNECTIVITY: Wi-Fi 5, Bluetooth 5, 4G LTE (SIM), USB-C (charging + OTG)",
             "Sleek and durable built for everyday",
-            "Custom Web Design",
-            "Custom flash drive cartridge",
-            "Testing and Quality Assurance",
+            "CAMERA: 13MP AF + LED flash, ",
         ],
         highlighted: false,
     },
@@ -38,17 +38,16 @@ const pricingPlanData = [
                 value: 599,
             },
         ],
-        description: "Dependable, sleek device that delivers power for personal use. Designed for managers, consultants and entrepreneurs who need flexibility without compromise",
+        description: "Slate Business Tab is designed for managers, consultants and entrepreneurs who need flexibility without compromise",
         tag: "FEATURES",
         features: [
-            "Lightweight and portable with premium finishing",
-            "CPU: Intel Core i3 / AMD Ryzen 3 / 5",
-            "GPU: Intel UHD Iris/ Vega",
-            "Strong battery and seamless connectivity",
-            "STORAGE: 256GB SSD (NVMe optional)",
-            "KEYBOARD: Backlit, ergonomic",
-            "CONNECTIVITY: Wi-Fi 6 / Bluetooth 5.1",
-            "SCREEN: 15.6inch FHD (1920 * 1020) IPS Anti-glare ",
+            "CPU: Octa-core ARM Cortex-A76/A55 or Snapdragon 7 series",
+            "RAM: 12GB",
+            "STORAGE: 126GB",
+            "OS: Android 14",
+            "CONNECTIVITY: Wi-Fi 6, Bluetooth 5.1, 4G LTE (SIM + eSIM support)",
+            "SCREEN: 11.1 inch Full HD+ (1920x1200) or QHD+ IPS LCD ",
+            "BATTERY: 9000mAh",
             
         ],
         highlighted: true,
@@ -63,16 +62,16 @@ const pricingPlanData = [
                 value: 499,
             },
         ],
-        description: "Designed for the future, a machine that can keep up with their vision, Ultra- slim (under 12mm thick), approximately 1.2kg, titanium alloy chassis with matte finish (slate colour),",
+        description: "Designed for class, premium performance, high end design, Cutting-edge features, luxury.  ",
         tag: "FEATURES",
         features: [
-            "CPU: Intel Core i5 / i7 / Ryzen 7",
-            "GPU: Intel Iris Xe / NVIDIA MX 450 (optional )",
+            "CPU: Octa-core ARM Cortex-A76/A55 or Snapdragon 7 series",
             "RAM: 16GB DDR4 / LPDDR5 (expandable to 32GB )",
-            "KEYBOARD: split resistant, fingerprint lock.",
-            "SCREEN: 15.1 / 16.1 inch FHD/QHD IPS wide view",
-            "PORT: 2x USB-A, 2x USB-C, 1x HDMI, Thunderbolt",
-            "KEYBOARD: split resistant, fingerprint lock.",
+            "STORAGE: 256 GB",
+            "OS: Android 14 ",
+            "SCREEN: 12.4 Full HD+ (1920x1200) or QHD+ IPS LCD",
+            "CONNECTIVITY: Wi-Fi 6E, 4G LTE (SIM + eSIM support, Bluetooth 5.3",
+            "BATTERY: 1000mAh",
             
         ],
         highlighted: false,
@@ -99,7 +98,7 @@ function TabletPricingPlan() {
             <div className="container">
                 <div className="aximo-pricing-title">
                     <h2>
-                        Pick from one of our Product
+                        Pick from one of our Tablets
                     {/**<span className="aximo-title-animation">
                             ready packages
                             <span className="aximo-title-icon">
