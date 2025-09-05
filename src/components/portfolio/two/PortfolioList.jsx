@@ -13,7 +13,7 @@ const portfolioListData = [
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Laptop",
-		description: "Developing the look and feel of physical products, aesthetics, and functionality.",
+		description: "Portable, Sleek and Powerful.",
 		img: Portfolio1Img,
 		url: "/slate-laptop",
 		
@@ -21,21 +21,21 @@ const portfolioListData = [
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Tablet",
-		description: "Creating or refreshing a companys logo and developing a cohesive visual identity.",
+		description: "Flexibility for managers, consultants and entrepreneurs on the go.",
 		img: Portfolio2Img,
 		url: "/slate-tablet",
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Phone",
-		description: "Designing the UI/UX for mobile apps and web applications to ensure usability & engagement.",
+		description: "Long-lasting, stylish and Smart.",
 		img: Portfolio3Img,
 		url: "/slate-phone",
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Slate Powerbank",
-		description: "Creating packaging solutions for products that not only protect attract customers on store.",
+		description: "Rugged and reliable energy on the go.",
 		img: Portfolio4Img,
 		url: "/slate-powerbank",
 	},
@@ -43,7 +43,7 @@ const portfolioListData = [
 		id: crypto.randomUUID(),
 		title: "Desktop (All-in-one & Tower)",
 		description:
-			"Designing trade show booths, exhibition spaces, and immersive installations for events and conferences.",
+			"For training centres, offices, studios and professionals.",
 		img: Portfolio5Img,
 		url: "/slate-desktop",	
 	},
@@ -51,7 +51,7 @@ const portfolioListData = [
 		id: crypto.randomUUID(),
 		title: "UPS",
 		description:
-			"Designing trade show booths, exhibition spaces, and immersive installations for events and conferences.",
+			"Backups power that keeps zou connected.",
 		img: Portfolio6Img,
 		url:"/slate-ups"
 	},
@@ -59,7 +59,7 @@ const portfolioListData = [
 		id: crypto.randomUUID(),
 		title: "Slate Gadgets",
 		description:
-			"Developing creative concepts for print, digital, and video advertising campaigns, including ad design and copywriting",
+			"Shop Now, Own Now. Paz Your Way",
 		img: Portfolio7Img,
 		url: "/slate-gadget",
 	},
@@ -67,7 +67,7 @@ const portfolioListData = [
 		id: crypto.randomUUID(),
 		title: "Slate VR",
 		description:
-			"Designing and building user-friendly websites that are visually appealing and responsive to different devices.",
+			"Affordable price with flexible installment plans.",
 		img: Portfolio8Img,
 		url: "/slate-laptop",
 	},
