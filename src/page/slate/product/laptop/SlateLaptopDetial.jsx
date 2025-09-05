@@ -62,13 +62,10 @@ function PortfolioDetails() {
 									</span>
 								</h2>
 								<p>
-									<b>AKINBOWALE: THE KING WHO BECAME A LEGEND. THE LEGEND WHO BECOME A LAPTOP</b><br/>
-									In the ancient kingdom of Yoruba, where the sun kissed the earth and the rivers sang 
-									with wisdom, there lived a warrior named Akin. He was no ordinary hunter. 
-									When leopards stalked the villages, Akin faced them bare-handed. When drought scorched 
-									the fields, Akin journeyed to the spirit world to beg for rain. His hands bore scars from 
-									battles fought, but his heart carried the tenderness of a protector. He did not seek power
-									 he sought provision for his people and protection for their dreams. 
+									<b>SLATE LAPTOPS  - Power, Performance & Style for Every Lifestyle</b><br/>
+									From students to executives, programmers to creatives, our Slate Laptops are
+									designed to keep you ahead. With cutting edge performance, sleek designs and flexible pazment plans, there's a perfect laptop for everyone.
+									 
 									 <a href=""> Read more<img src={ArrowRightImg} alt="arrow right" /></a>
 								</p>
 								

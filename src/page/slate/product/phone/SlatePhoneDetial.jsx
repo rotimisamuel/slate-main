@@ -1,4 +1,4 @@
-import Single1Img from "../../../../assets/images/portfolio/p_3.png";
+import Single1Img from "../../../../assets/images/portfolio/phone1.png";
 import Single2Img from "../../../../assets/images/portfolio/p_single2.png";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInRight from "../../../../components/animation/FadeInRight";
@@ -18,7 +18,7 @@ const projectResolveSteps = [
 	{
 		id: crypto.randomUUID(),
 		title: "SLATE ELITE",
-		text: "Designed Beyond premium, beyond boundaries, Designed for excellence, power, class and control in your palm just like Ọpá Aṣẹ",
+		text: "Designed Beyond premium, beyond boundaries, Designed for excellence, power, class and control in your palm.",
 	},
 ];
 function PortfolioDetails() {
@@ -62,12 +62,11 @@ function PortfolioDetails() {
 									</span>
 								</h2>
 								<p>
-									<b>ỌPÁ AṢẸ - THE STAFF OF AUTHORITY, REBORN IN YOUR HANDS AS SLATE PHONE</b><br/>
-									In the dawn of civilizations, when the Ọpá Aṣẹ (Staff of Authority) crowned 
-                                    kings with divine command, it was never just an object. 
-                                    It was a covenant — power to decide, wisdom to lead, and resilience to outlast 
-                                    storms. That spirit has not faded. It has only transformed. 
-                                    Today, that ancient authority lives again, reborn as Slate Phone series 
+									<b>SLATE PHONE</b><br/>
+									Stay connected with Slate Phones, designed for clarity, 
+									style and intelligence. Featuring long-lasting batteries, 
+									crystal- clear cameras, advanced audio that isolates noise in crowded
+									 spaces and customizable voice tone for calls
 									 <a href=""> Read more<img src={ArrowRightImg} alt="arrow right" /></a>
 								</p>
 								
